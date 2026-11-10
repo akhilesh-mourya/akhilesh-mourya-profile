@@ -1,0 +1,9 @@
+node_modules
+.next
+.next-production
+.rebuild-backups
+*.tsbuildinfo
+.DS_Store
+out
+.env*
+!.env.example

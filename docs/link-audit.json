@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-11-06T07:42:54.913Z",
+  "method": "HTTP GET with redirects. Reachability does not prove ownership or every app-store region.",
+  "results": [
+    {
+      "url": "https://github.com/akhilesh-mourya",
+      "status": 200,
+      "finalUrl": "https://github.com/akhilesh-mourya",
+      "title": "akhilesh-mourya (Akhilesh Mourya) · GitHub",
+      "result": "reachable"
+    },
+    {
+      "url": "https://www.linkedin.com/in/akhilesh-mourya-54705232/",
+      "status": 429,
+      "finalUrl": "https://www.linkedin.com/in/akhilesh-mourya-54705232/",
+      "title": null,
+      "result": "automated access blocked"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/natty-hatty/id1671750048",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/us/app/natty-hatty/id1671750048",
+      "title": "‎Natty Hatty App - App Store",
+      "result": "reachable"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.nhcustomermobileapp&hl=en_US",
+      "status": 200,
+      "finalUrl": "https://play.google.com/store/apps/details?id=com.nhcustomermobileapp&hl=en_US",
+      "title": "Natty Hatty - Apps on Google Play",
+      "result": "reachable"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/amori-personal-dating-coach/id1552334356",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/us/app/amori-personal-dating-coach/id1552334356",
+      "title": "‎Amori: personal dating coach App - App Store",
+      "result": "reachable"
+    },
+    {
+      "url": "https://amori.app/",
+      "status": 200,
+      "finalUrl": "https://amori.app/",
+      "title": "Amori: personal dating coach",
+      "result": "reachable"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+      "title": "‎SwiftSku App - App Store",
+      "result": "reachable"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.swiftsku&hl=en_US",
+      "status": 200,
+      "finalUrl": "https://play.google.com/store/apps/details?id=com.swiftsku&hl=en_US",
+      "title": "SwiftSku: C-Store Back Office - Apps on Google Play",
+      "result": "reachable"
+    },
+    {
+      "url": "https://apps.apple.com/in/app/arzooo-b2b-for-retail-stores/id1497133088",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/in/app/arzooo-b2b-for-retail-stores/id1497133088",
+      "title": "‎Arzooo B2B for retail stores App - App Store",
+      "result": "reachable"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.arzooonative&hl=en_US",
+      "status": 200,
+      "finalUrl": "https://play.google.com/store/apps/details?id=com.arzooonative&hl=en_US",
+      "title": "Arzooo B2B for retail stores - Apps on Google Play",
+      "result": "reachable"
+    },
+    {
+      "url": "https://openpath.ai/",
+      "status": 403,
+      "finalUrl": "https://openpath.ai/",
+      "title": "ERROR: The request could not be satisfied",
+      "result": "automated access blocked"
+    }
+  ]
+}

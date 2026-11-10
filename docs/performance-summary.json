@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-11-06T07:47:10.328Z",
+  "url": "http://localhost:3101/",
+  "method": "Lighthouse simulated mobile on a local production build; not a physical-device measurement.",
+  "scores": {
+    "performance": 100,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "metrics": {
+    "first-contentful-paint": "0.8 s",
+    "largest-contentful-paint": "0.8 s",
+    "total-blocking-time": "10 ms",
+    "cumulative-layout-shift": "0",
+    "speed-index": "1.3 s"
+  },
+  "warnings": []
+}

@@ -1,0 +1,117 @@
+{
+  "base": "http://localhost:3000",
+  "checkedAt": "2026-11-06T07:56:14.888Z",
+  "pages": [
+    {
+      "size": "375",
+      "theme": "light",
+      "overflow": {
+        "viewport": 375,
+        "document": 375
+      },
+      "violations": []
+    },
+    {
+      "size": "375",
+      "theme": "dark",
+      "overflow": {
+        "viewport": 375,
+        "document": 375
+      },
+      "violations": []
+    },
+    {
+      "size": "768",
+      "theme": "light",
+      "overflow": {
+        "viewport": 768,
+        "document": 768
+      },
+      "violations": []
+    },
+    {
+      "size": "768",
+      "theme": "dark",
+      "overflow": {
+        "viewport": 768,
+        "document": 768
+      },
+      "violations": []
+    },
+    {
+      "size": "laptop",
+      "theme": "light",
+      "overflow": {
+        "viewport": 1280,
+        "document": 1280
+      },
+      "violations": []
+    },
+    {
+      "size": "laptop",
+      "theme": "dark",
+      "overflow": {
+        "viewport": 1280,
+        "document": 1280
+      },
+      "violations": []
+    },
+    {
+      "size": "desktop",
+      "theme": "light",
+      "overflow": {
+        "viewport": 1440,
+        "document": 1440
+      },
+      "violations": []
+    },
+    {
+      "size": "desktop",
+      "theme": "dark",
+      "overflow": {
+        "viewport": 1440,
+        "document": 1440
+      },
+      "violations": []
+    },
+    {
+      "size": "landscape",
+      "theme": "light",
+      "overflow": {
+        "viewport": 812,
+        "document": 812
+      },
+      "violations": []
+    },
+    {
+      "size": "landscape",
+      "theme": "dark",
+      "overflow": {
+        "viewport": 812,
+        "document": 812
+      },
+      "violations": []
+    }
+  ],
+  "interactions": {
+    "mobileMenu": "Escape returns focus; section selection closes menu",
+    "reducedMotion": "Static poster; player not mounted",
+    "skipLink": "Keyboard link moves focus to main content",
+    "contact": "Resume responds successfully; email is a mailto link",
+    "navigation": "Home clears the active section; Work and Contact track the visible section",
+    "imageViewer": "Arrow keys browse, Escape closes, focus returns to opener; axe passed",
+    "metadata": "Confirmed production canonical, sitemap, robots, Person schema, and generated social image",
+    "reel": {
+      "loadedAfterClick": true,
+      "scenes": [
+        "Natty Hatty",
+        "Amori",
+        "SwiftSku"
+      ],
+      "violations": []
+    },
+    "caseStudy": "375px and 1440px layouts pass axe and overflow checks",
+    "zoom": "200% desktop layout equivalent: 640×360 CSS viewport at 2× scale, no horizontal overflow"
+  },
+  "errors": []
+}

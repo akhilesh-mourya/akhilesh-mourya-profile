@@ -1,0 +1,128 @@
+{
+  "projects": [
+    {
+      "product": "Natty Hatty",
+      "id": 1671750048,
+      "lookup": "https://itunes.apple.com/lookup?id=1671750048&country=us",
+      "page": "https://apps.apple.com/us/app/natty-hatty/id1671750048?uo=4",
+      "verifiedAt": "2026-11-06",
+      "images": [
+        {
+          "file": "public/projects/natty-hatty-1.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/dd/d9/cbddd91c-bdc8-cff4-bc5e-396bc4edfb3b/e366e733-cf68-4dcf-b9d2-1fc6d7d04439_1.jpg/784x1392bb.jpg"
+        },
+        {
+          "file": "public/projects/natty-hatty-2.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/58/65/e458658f-ec94-efd9-40f8-277a4abc4e62/3829ff91-1e3a-4acc-9cbc-685146136cc6_2.jpg/784x1392bb.jpg"
+        },
+        {
+          "file": "public/projects/natty-hatty-3.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/4c/3b/534c3bb4-8810-83cf-51e9-9af2abe7e7b2/eaa7418d-a25b-4c21-9931-ada61a17f917_3.jpg/392x696bb.jpg"
+        },
+        {
+          "file": "public/projects/natty-hatty-icon.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/3a/2f/9d3a2f2a-70eb-f3ce-2c3f-bc332c187dd5/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/512x512bb.jpg"
+        }
+      ]
+    },
+    {
+      "product": "Amori: personal dating coach",
+      "id": 1552334356,
+      "lookup": "https://itunes.apple.com/lookup?id=1552334356&country=us",
+      "page": "https://apps.apple.com/us/app/amori-personal-dating-coach/id1552334356?uo=4",
+      "verifiedAt": "2026-11-06",
+      "images": [
+        {
+          "file": "public/projects/amori-1.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/78/0c/80780c81-6de8-ac4c-1a7c-7c398bd1b504/1242x2208_1.png/784x1392bb.png"
+        },
+        {
+          "file": "public/projects/amori-2.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/fd/a4/16fda4b8-52e3-b874-f42f-544dfeb0ad5c/1242x2208_2.png/784x1392bb.png"
+        },
+        {
+          "file": "public/projects/amori-icon.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/88/1e/8a881e20-f825-d295-9964-1daf52bde050/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+        }
+      ]
+    },
+    {
+      "product": "SwiftSku",
+      "id": 1515815242,
+      "lookup": "https://itunes.apple.com/lookup?id=1515815242&country=us",
+      "page": "https://apps.apple.com/us/app/swiftsku/id1515815242?uo=4",
+      "verifiedAt": "2026-11-06",
+      "images": [
+        {
+          "file": "public/projects/swiftsku-1.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/87/42/2a8742ba-564c-4301-f9ce-ac8a5be2b96e/594085b0-c9b5-4c45-8df1-3ecf40605a80_iPhone_5.5_1.png/784x1392bb.png"
+        },
+        {
+          "file": "public/projects/swiftsku-2.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/64/52/cd6452a7-664c-f2d3-2bb3-a39ac0348e30/1323d38d-8262-469b-9a25-1841d83ede23_iPhone_5.5_2.png/784x1392bb.png"
+        },
+        {
+          "file": "public/projects/swiftsku-3.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/e2/ab/b9e2ab0d-77ef-4982-fded-8c3907f8360e/45dbd582-cf74-4154-96ca-3d41194b0a0c_iPhone_5.5_3.png/392x696bb.png"
+        },
+        {
+          "file": "public/projects/swiftsku-icon.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e2/16/fbe2167b-32fe-8791-2d36-910bff2eef7b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+        }
+      ]
+    },
+    {
+      "product": "Arzooo B2B for retail stores",
+      "id": 1497133088,
+      "lookup": "https://itunes.apple.com/lookup?id=1497133088&country=in",
+      "page": "https://apps.apple.com/in/app/arzooo-b2b-for-retail-stores/id1497133088?uo=4",
+      "verifiedAt": "2026-11-06",
+      "images": [
+        {
+          "file": "public/projects/arzooo-1.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b7/fa/22/b7fa220a-300e-4737-6949-cf9831eedd27/4e372210-d738-4b74-a97f-5b521584cbe3_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-04-02_at_16.06.21.png/392x696bb.png"
+        },
+        {
+          "file": "public/projects/arzooo-2.png",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4c/71/9d/4c719d50-2dd6-7854-ba41-801c516aa79d/d95a6a13-b64a-4c51-954c-354e12c438ba_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2022-04-02_at_16.06.35.png/784x1392bb.png"
+        },
+        {
+          "file": "public/projects/arzooo-icon.jpg",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/2a/85/172a85da-1c5f-cb6f-db9d-a1363e9140bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+        }
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "file": "geist-regular.ttf",
+      "source": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nQ.ttf"
+    },
+    {
+      "file": "geist-medium.ttf",
+      "source": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4nQ.ttf"
+    },
+    {
+      "file": "geist-semibold.ttf",
+      "source": "https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nQ.ttf"
+    },
+    {
+      "file": "inter-tight-regular.ttf",
+      "source": "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf"
+    },
+    {
+      "file": "inter-tight-medium.ttf",
+      "source": "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA.ttf"
+    },
+    {
+      "file": "geist-mono.ttf",
+      "source": "https://fonts.gstatic.com/s/geistmono/v6/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeE9KJ5T.ttf"
+    }
+  ],
+  "profile": {
+    "file": "public/profile/akhilesh-mourya.png",
+    "source": "User-supplied portrait",
+    "originalFilename": "Professional Smiling Portrait with Teal Lighting.png",
+    "note": "Original image copied without recoloring or retouching."
+  }
+}
